@@ -1,7 +1,7 @@
 - 👋 Hi, I’m abebe kindie, I am software developer
-- 👀 I’m interested in in pyhton and android  mobile application develope r
+- 👀 I’m interested in in pyhton and android  mobile application developement.
 - 🌱 I’m currently learning django 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python webdevelopment.
 - 📫 you can reach me using abebedtu@gmail.com
 
 <!---
